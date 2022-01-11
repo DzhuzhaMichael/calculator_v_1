@@ -5,7 +5,7 @@ public class Converter {
 
     public double getValue() {
         double value = 0;
-        String userInput = input.next().toUpperCase(); // fails with incorrect values like "3r"
+        String userInput = input.next().toUpperCase(); // fails with incorrect values like "3r" or
 
         if (userInput.charAt(0) == '0' || userInput.charAt(0) == '1' || userInput.charAt(0) == '2'
                 || userInput.charAt(0) == '3' || userInput.charAt(0) == '4' || userInput.charAt(0) == '5'
@@ -74,4 +74,3 @@ public class Converter {
         return operationSign;
     }
 }
-
