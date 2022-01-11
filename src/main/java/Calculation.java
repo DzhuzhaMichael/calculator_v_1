@@ -1,8 +1,9 @@
 public class Calculation {
     public static void main(String[] args) {
 
-        // Test comment from Github_version_2
+        // Test comment from Github_2
         // Test commit from IDEA
+        // Test comment from Github_3
         
         System.out.println("Welcome to the Calculator_version_1! \nThe Calculator provides opportunity to add," +
                         " subtract, multiply or divide two operands.");
