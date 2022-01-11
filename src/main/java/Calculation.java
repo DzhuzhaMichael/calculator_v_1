@@ -1,7 +1,6 @@
 public class Calculation {
     public static void main(String[] args) {
 
-        // Test comment from Github
         // Test comment from Github_version_2
         
         System.out.println("Welcome to the Calculator_version_1! \nThe Calculator provides opportunity to add," +
